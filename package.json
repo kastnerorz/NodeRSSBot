@@ -5,9 +5,9 @@
   "main": "dist/source",
   "scripts": {
     "build": "del-cli dist && tsc && cpy source/database/sql dist/source/database/sql && cpy source/template dist/source/template && cpy i18n dist/i18n",
-    "start": "RSSBOT_TOKEN=1280271337:AAGlTrLn6ACFr3ve62afFnr3cjvZKwhqLSs cross-env NODE_PRODUTION=true node dist/source/index.js",
+    "start": "cross-env NODE_PRODUTION=true node dist/source/index.js",
     "start-withsnapshot": "cross-env NODE_PRODUTION=true node --heapsnapshot-signal=SIGUSR2 dist/source/index.js",
-    "dev": "RSSBOT_TOKEN=1280271337:AAGlTrLn6ACFr3ve62afFnr3cjvZKwhqLSs node dist/source/index",
+    "dev": "node dist/source/index",
     "test": "cross-env RSSBOT_DB_PATH=test/test-data/test.db npx jest --verbose",
     "format": "eslint \"source/**/*.{js,ts}\" --fix && prettier \"**/*.{js,ts,json,md}\" --write",
     "lint": "eslint \"source/**/*.{js,ts}\" && prettier-check \"**/*.{js,ts,json,md}\" && npm run lint-lockfile",
