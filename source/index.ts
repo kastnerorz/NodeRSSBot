@@ -7,7 +7,7 @@ import logger from './utils/logger';
 import errors from './utils/errors';
 import i18n from './i18n';
 
-import { replyKeyboard, changeLangCallback } from './controlers/language';
+import { replyKeyboard, changeLangCallback } from './controllers/language';
 import {
     getUrlById,
     rss,
@@ -16,8 +16,8 @@ import {
     unsubAll,
     viewAll,
     getActiveFeedWithErrorCount
-} from './controlers/rss';
-import importReply from './controlers/import-reply';
+} from './controllers/rss';
+import importReply from './controllers/import-reply';
 import { config } from './config';
 import agent from './utils/agent';
 const { token, view_all, lang, item_num, db_path, not_send } = config;
