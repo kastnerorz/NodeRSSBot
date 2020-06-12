@@ -27,7 +27,7 @@ RSS_USAGE: 使用方法： /rss 輸出訂閱列表 加 raw 顯示連結
 VIEW_ALL_USAGE: 使用方法：/viewall 查看所有訂閱和訂閱人数 需要在設置中打開，加 `raw`顯示連結
 USB_ALL_USAGE: 使用方法： /allunsub 退訂所有源
 IMPORT_USAGE: 使用方法： /import 回覆這則消息或者直接發（私聊） opml 文檔
-WELCOME: 歡迎來到 [NodeRSSBot](https://github.com/fengkx/NodeRSSBot)
+WELCOME: 歡迎來到 [NodeRSSBot](https://github.com/kastnerorz/NodeRSSBot)
 CONFIRM: 是否繼續當前操作
 PRIVATE_CHAT_ONLY: 只能在私聊中使用
 ALL_FEED: 所有被訂閱的feed

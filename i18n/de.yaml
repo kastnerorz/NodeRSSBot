@@ -27,7 +27,7 @@ RSS_USAGE: 'Verwendung： /rss Liefert die Liste der Abonnements. Füge "raw" hi
 VIEW_ALL_USAGE: /viewall Zeigt alle Abonnements und die Anzahl der Abonnenten. Füge raw hinzu, um Links anzuzeigen
 USB_ALL_USAGE: 'Verwendung： /allunsub alle Feeds abbestellen'
 IMPORT_USAGE: 'Verwendung： /import OPML direkt im privaten Chat senden oder auf diese Nachricht antworten'
-WELCOME: Willkommen beim [NodeRSSBot](https://github.com/fengkx/NodeRSSBot)
+WELCOME: Willkommen beim [NodeRSSBot](https://github.com/kastnerorz/NodeRSSBot)
 CONFIRM: Möchtest du den Vorgang fortsetzten
 PRIVATE_CHAT_ONLY: Kann nur im privaten Chat verwendet werden
 ALL_FEED: Alle Feeds abonniert

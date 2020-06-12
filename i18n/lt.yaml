@@ -27,7 +27,7 @@ RSS_USAGE: 'NAUDOJIMAS： /rss Parodyti prenumeratų sąrašą. Pridėkite raw t
 VIEW_ALL_USAGE: /viewall Parodyti visas prenumeratas ir prenumeratorių skaičių. Pridėkite raw tam, kad matytumėte nuorodas
 USB_ALL_USAGE: 'NAUDOJIMAS： /allunsub atšaukti visas prenumeratas'
 IMPORT_USAGE: 'NAUDOJIMAS： /import nusiųskite opml šiame kanale arba privačia žinute'
-WELCOME: Sveiki atvykę į [NodeRSSBot](https://github.com/fengkx/NodeRSSBot)
+WELCOME: Sveiki atvykę į [NodeRSSBot](https://github.com/kastnerorz/NodeRSSBot)
 CONFIRM: Ar norite tęsti šį veiksmą?
 PRIVATE_CHAT_ONLY: Galima naudoti tik privačiuose kanaluose
 ALL_FEED: Visos prenumeratos

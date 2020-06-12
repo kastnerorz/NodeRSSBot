@@ -27,7 +27,7 @@ RSS_USAGE: 'UTILIZACIÓN: /rss Devuelve la lista de suscripciones; agregue "raw"
 VIEW_ALL_USAGE: /viewall Ver todas las suscripciones y el número de suscriptores que tienen agregue "raw" para mostrar los enlaces
 USB_ALL_USAGE: 'UTILIZACIÓN: /allunsub Cancelar la suscripción a todos los feeds'
 IMPORT_USAGE: 'UTILIZACIÓN: /import Enviar el archivo OPML directamente a un chat privado o responder a este mensaje'
-WELCOME: Bienvenido a [NodeRSSBot](https://github.com/fengkx/NodeRSSBot)
+WELCOME: Bienvenido a [NodeRSSBot](https://github.com/kastnerorz/NodeRSSBot)
 CONFIRM: ¿Desea continuar con la operación?
 PRIVATE_CHAT_ONLY: Sólo se puede utilizar en un chat privado
 ALL_FEED: Todas las fuentes suscritas

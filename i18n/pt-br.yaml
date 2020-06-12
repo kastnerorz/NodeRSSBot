@@ -27,7 +27,7 @@ RSS_USAGE: 'USO： /rss Mostra a lista de inscrições. Adicione "raw" para most
 VIEW_ALL_USAGE: /viewall Mostra todas as inscrições e número de inscritos. Adicione "raw" para mostrar os links'
 USB_ALL_USAGE: 'USO： /allunsub Remove a inscrição de todos os feeds'
 IMPORT_USAGE: 'USO： /import envia um arquivo opml diretamente em uma conversa privada ou responsa essa mensagem'
-WELCOME: Bem vindo ao [NodeRSSBot](https://github.com/fengkx/NodeRSSBot)
+WELCOME: Bem vindo ao [NodeRSSBot](https://github.com/kastnerorz/NodeRSSBot)
 CONFIRM: Vocês deseja continuar com a operação
 PRIVATE_CHAT_ONLY: Só pode ser utilizado em uma conversa privada
 ALL_FEED: Inscrito em todos os feeds
