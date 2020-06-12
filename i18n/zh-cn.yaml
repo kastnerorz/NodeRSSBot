@@ -27,7 +27,7 @@ RSS_USAGE: 使用方法： /rss 输出订阅列表 加 raw 显示链接
 VIEW_ALL_USAGE: 使用方法：/viewall 查看所有订阅和订阅人数 需要在设置中打开，加 `raw`显示链接
 USB_ALL_USAGE: 使用方法： /allunsub 退订所有源
 IMPORT_USAGE: 使用方法： /import 回复这条消息或者直接发（私聊） opml 文档
-WELCOME: 欢迎来到 [NodeRSSBot](https://github.com/kastnerorz/NodeRSSBot)
+WELCOME: 欢迎来到 [NodeRSSBot](https://github.com/kastnerorz/jike-fans-bot)
 CONFIRM: 是否继续当前操作
 PRIVATE_CHAT_ONLY: 只能在私聊中使用
 ALL_FEED: 所有被订阅的feed

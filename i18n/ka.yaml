@@ -27,7 +27,7 @@ RSS_USAGE: 'გამოყენება: /rss გამომწერებ�
 VIEW_ALL_USAGE: /viewall იხილეთ ყველა გამოწერა და გამომწერთა რაოდენობა, დაამატეთ "raw" ბმულების სანახავად
 USB_ALL_USAGE: 'გამოყენება: /allunsub ყველა გამოწერის გაუქმება'
 IMPORT_USAGE: 'გამოყენება: /import გაგზავნეთ opml ფაილი პირდაპირ პირად მიმოწერაში ან უპასუხეთ ამ შეტყობინებას'
-WELCOME: მოგესალმებათ [NodeRSSBot](https://github.com/kastnerorz/NodeRSSBot)
+WELCOME: მოგესალმებათ [NodeRSSBot](https://github.com/kastnerorz/jike-fans-bot)
 CONFIRM: გსურთ გააგრძელოთ ოპერაცია
 PRIVATE_CHAT_ONLY: მისი გამოყენება მხოლოდ პირად მიმოწერაშია შესაძლებელი
 ALL_FEED: ყველა ინფორმაციის წყარო გამოწერილია
